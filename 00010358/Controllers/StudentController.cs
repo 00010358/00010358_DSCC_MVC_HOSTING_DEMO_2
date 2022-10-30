@@ -27,7 +27,7 @@ namespace _00010358.Controllers
         public async Task<ActionResult> Index()
         {
             //Hosted web API REST Service base url
-            string Baseurl = "http://ec2-18-183-196-155.ap-northeast-1.compute.amazonaws.com/";
+            string Baseurl = "https://ec2-18-181-79-254.ap-northeast-1.compute.amazonaws.com/";
             List<Student> StuInfo = new List<Student>();
             using (var client = new HttpClient())
             {
