@@ -2,7 +2,15 @@ version: 0.0
 os: windows
 files:
   - source: \
-    destination: C:\temp\wwwroot\00010358
+    destination: C:\inetpub\wwwroot\00010358
+  - source: \deletewebsite.ps1
+    destination: c:\temp
+  - source: \installwebsite.ps1
+    destination: c:\temp
+  - source: \deletewebsite.bat
+    destination: c:\temp
+  - source: \installwebsite.bat
+    destination: c:\temp
 hooks:
   BeforeInstall:
     - location: \deletewebsite.bat
