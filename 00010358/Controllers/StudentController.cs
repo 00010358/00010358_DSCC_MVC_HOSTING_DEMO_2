@@ -14,7 +14,7 @@ namespace _00010358.Controllers
 {
     public class StudentController : Controller
     {
-        Uri baseAdd = new Uri("https://localhost:44303/");
+        Uri baseAdd = new Uri("http://ec2-18-181-79-254.ap-northeast-1.compute.amazonaws.com/");
         HttpClient clnt;
 
         public StudentController()
@@ -27,7 +27,7 @@ namespace _00010358.Controllers
         public async Task<ActionResult> Index()
         {
             //Hosted web API REST Service base url
-            string Baseurl = "https://ec2-18-181-79-254.ap-northeast-1.compute.amazonaws.com/";
+            string Baseurl = "http://ec2-18-181-79-254.ap-northeast-1.compute.amazonaws.com/";
             List<Student> StuInfo = new List<Student>();
             using (var client = new HttpClient())
             {
