@@ -5,8 +5,8 @@ files:
     destination: C:\temp\wwwroot\00010358
 hooks:
   BeforeInstall:
-    - location: \deletewebsite.ps1
-      timeout: 120
+    - location: \deletewebsite.bat
+      timeout: 180
   AfterInstall:
-    - location: \installwebsite.ps1
-      timeout: 120
+    - location: \installwebsite.bat
+      timeout: 180
