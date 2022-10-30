@@ -1,8 +1,8 @@
 version: 0.0
 os: windows
 files:
-  - source: \00010358.sln
-    destination: C:\inetpub\wwwroot\00010358
+  - source: \
+    destination: c:\inetpub\wwwroot\00010358
   - source: \deletewebsite.ps1
     destination: c:\temp
   - source: \installwebsite.ps1
