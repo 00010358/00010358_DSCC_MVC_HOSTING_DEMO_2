@@ -2,8 +2,11 @@ version: 0.0
 os: windows
 files:
   - source: \
-    destination: C:\temp\00010358\website
+    destination: C:\temp\wwwroot\00010358
 hooks:
   BeforeInstall:
-    - location: .\StageArtifact.ps1
-    - location: .\CreateWebsite.ps1
+    - location: \deletewebsite.ps1
+      timeout: 120
+  AfterInstall:
+    - location: \installwebsite.ps1
+      timeout: 120
