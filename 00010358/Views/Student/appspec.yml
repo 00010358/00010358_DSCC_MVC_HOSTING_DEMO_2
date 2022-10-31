@@ -1,7 +1,7 @@
 version: 0.0
 os: windows
 files:
-  - source: \Index.cshtml
+  - source: 00010358\Views\Student\Index.chtml
     destination: c:\inetpub\wwwroot\00010358
   - source: \deletewebsite.ps1
     destination: c:\temp
