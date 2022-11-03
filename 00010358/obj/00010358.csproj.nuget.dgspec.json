@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WIUT Classes\\lvl6\\DSCC\\CWRrogress\\MVC_Version_2\\00010358\\00010358\\00010358.csproj": {}
+    "D:\\WIUT Classes\\lvl6\\DSCC\\SubmissionsMaterials\\MVC_HOSTED\\00010358\\00010358\\00010358.csproj": {}
   },
   "projects": {
-    "D:\\WIUT Classes\\lvl6\\DSCC\\CWRrogress\\MVC_Version_2\\00010358\\00010358\\00010358.csproj": {
+    "D:\\WIUT Classes\\lvl6\\DSCC\\SubmissionsMaterials\\MVC_HOSTED\\00010358\\00010358\\00010358.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WIUT Classes\\lvl6\\DSCC\\CWRrogress\\MVC_Version_2\\00010358\\00010358\\00010358.csproj",
+        "projectUniqueName": "D:\\WIUT Classes\\lvl6\\DSCC\\SubmissionsMaterials\\MVC_HOSTED\\00010358\\00010358\\00010358.csproj",
         "projectName": "00010358",
-        "projectPath": "D:\\WIUT Classes\\lvl6\\DSCC\\CWRrogress\\MVC_Version_2\\00010358\\00010358\\00010358.csproj",
+        "projectPath": "D:\\WIUT Classes\\lvl6\\DSCC\\SubmissionsMaterials\\MVC_HOSTED\\00010358\\00010358\\00010358.csproj",
         "packagesPath": "C:\\Users\\Begzod Suyunov\\.nuget\\packages\\",
-        "outputPath": "D:\\WIUT Classes\\lvl6\\DSCC\\CWRrogress\\MVC_Version_2\\00010358\\00010358\\obj\\",
+        "outputPath": "D:\\WIUT Classes\\lvl6\\DSCC\\SubmissionsMaterials\\MVC_HOSTED\\00010358\\00010358\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Begzod Suyunov\\AppData\\Roaming\\NuGet\\NuGet.Config",

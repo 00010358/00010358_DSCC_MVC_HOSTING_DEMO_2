@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l3xloKMWFJoXEesdwMkg1YOZMeuKrggB3/xdlSO4J6ee6RMI7QjYo278IrUfRmllld6rH8MC5jdZFp4iKyiSyw==",
+  "dgSpecHash": "M9l9FwBm4rh6oAs1tWVlX75Opx1sRjzjeYVmaanN5p/HUI0vF/MkcVHPGxzM29sknrFt559tN2+XvuQKlmH4fA==",
   "success": true,
-  "projectFilePath": "D:\\WIUT Classes\\lvl6\\DSCC\\CWRrogress\\MVC_Version_2\\00010358\\00010358\\00010358.csproj",
+  "projectFilePath": "D:\\WIUT Classes\\lvl6\\DSCC\\SubmissionsMaterials\\MVC_HOSTED\\00010358\\00010358\\00010358.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Begzod Suyunov\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Begzod Suyunov\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
